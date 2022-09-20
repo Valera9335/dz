@@ -1,0 +1,14 @@
+:root{
+    --accent-color: #2196F3;
+    --primary-text-color: #212121;}
+    h1{
+        color: var(--primary-text-color);
+        width:350px;
+        height:220px;
+        background: green;
+        border-style: dashed;
+        top:15px;
+        right:10px ;
+        left:10px ;
+        bottom:20px ;
+    }
