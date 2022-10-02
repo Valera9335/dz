@@ -7,8 +7,9 @@
         height:220px;
         background: green;
         border-style: dashed;
-        top:15px;
-        right:10px ;
-        left:10px ;
-        bottom:20px ;
+        margin: 30px;
+        padding-bottom: 15px;
+        padding-left: 10px;
+        padding-top: 20px;
+        padding-right: 10px;
     }
